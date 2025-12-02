@@ -23,5 +23,3 @@ The project demonstrates the use of file handling, string manipulation, function
 - Operating System: Windows / Linux
 
 ---
-
-## Project Structure
